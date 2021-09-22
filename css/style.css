@@ -3,3 +3,24 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+header {
+    height: 100px;
+    /* debug */
+    background-color: blue;
+}
+
+.container-center {
+    width: 80%;
+    margin: 0 auto;
+    /* debug */
+    background-color: blueviolet;
+    height: 100px;
+}
+
+#jumbotron {
+    width: 100vw;
+    /* debug */
+    background-color: brown;
+    height: 300px;
+}
